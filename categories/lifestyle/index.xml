@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifestyle on Oh Lovely!</title>
+    <link>http://oh-lovely.fr/categories/lifestyle/</link>
+    <description>Recent content in Lifestyle on Oh Lovely!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 28 Jul 2016 22:21:02 +0200</lastBuildDate>
+    <atom:link href="http://oh-lovely.fr/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://oh-lovely.fr/post/first/</link>
+      <pubDate>Thu, 28 Jul 2016 22:21:02 +0200</pubDate>
+      
+      <guid>http://oh-lovely.fr/post/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
