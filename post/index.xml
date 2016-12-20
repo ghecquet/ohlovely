@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Oh Lovely!</title>
-    <link>http://oh-lovely.fr/post/</link>
-    <description>Recent content in Posts on Oh Lovely!</description>
+    <title>Post-rsses on Oh Lovely!</title>
+    <link>http://oh-lovely.fr/post/index.xml</link>
+    <description>Recent content in Post-rsses on Oh Lovely!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 28 Jul 2016 22:31:38 +0200</lastBuildDate>
