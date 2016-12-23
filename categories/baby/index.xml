@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oh Lovely!</title>
-    <link>http://oh-lovely.fr/categories/baby/index.xml</link>
+    <link>http://ohlovely.fr/categories/baby/index.xml</link>
     <description>Recent content on Oh Lovely!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="http://oh-lovely.fr/categories/baby/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ohlovely.fr/categories/baby/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
-      <link>http://oh-lovely.fr/post/first/</link>
+      <link>http://ohlovely.fr/post/first/</link>
       <pubDate>Thu, 28 Jul 2016 22:21:02 +0200</pubDate>
       
-      <guid>http://oh-lovely.fr/post/first/</guid>
+      <guid>http://ohlovely.fr/post/first/</guid>
       <description></description>
     </item>
     
